@@ -1,0 +1,7 @@
+date,temperature,windspeed,event
+01-01-2017,35,6,rain
+02-01-2017,36,7,sunny
+03-01-2017,35,4,sunny
+04-01-2017,37,3,rain
+05-01-2017,35,7,snow
+06-01-2017,32,6,snow
